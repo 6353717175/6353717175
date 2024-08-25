@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @6353717175
+- 👋 Hi, I’m @umar
 - 👀 I’m interested in ...CORE JAVA
 - 🌱 I’m currently learning ...PHP
 - 💞️ I’m looking to collaborate on ...
